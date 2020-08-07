@@ -4,7 +4,7 @@
   "dependencies": {
     "cli-color": "",
     "dotenv": "^1.2.0",
-    "express": "~3.4.4",
+    "express": "~4.17.1",
     "glob": "",
     "jade": "~0.35.0",
     "js-yaml": "",
